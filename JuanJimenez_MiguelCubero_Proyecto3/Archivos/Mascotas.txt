@@ -1,0 +1,6 @@
+12345;23;Nana;Canino;chigugua;23;02;2022;hembra;blanco;si;23;04;2022
+41235;25;Laga;Igauna;marina;23;04;2001;noni;amarilo;no;23;05;2012
+2345;12;Almedrano;Jirafa;rayada;23;2004;34;macho;naranja;no;23;05;2022
+12345;45;Aguacate;Gato;abisinio;23;2004;45;macho;blanco;no;23;05;2002
+32343;25;Fantasma;Perro;buldog;23;03;2065;macho;negro;si;23;05;2034
+12345;25;Romeo;Canino;chigugua;23;05;2069;hembra;negro;no;23;06;2022
