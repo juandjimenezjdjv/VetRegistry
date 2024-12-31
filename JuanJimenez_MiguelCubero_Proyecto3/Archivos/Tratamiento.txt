@@ -1,7 +1,0 @@
-980;Neobol;50;1000
-1000;Acetaminofen;25;1000
-123;Panadol;30;1000
-980;Allergel;80;1000
-300;Otogen;10;1000
-123;Cataflan;60;1000
-777;Milagro;100;1000

@@ -1,8 +1,0 @@
-12;123;Heredia
-23;12;Orlando
-12;123;Mata de Platano
-12;456;Tres Rios
-45;11;David 
-23;123;Texas
-39;12;Toronto
-101;123;Ajaja

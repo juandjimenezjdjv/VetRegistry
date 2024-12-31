@@ -1,0 +1,11 @@
+12;Costa Rica
+23;Estados Unidos
+45;Panama
+19;Malasia
+12;Puerto Rico
+77;Brasil
+23;Paraguay
+1;EAU
+34;Guatemala
+52;Marruecos
+101;Albania
